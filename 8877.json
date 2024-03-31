@@ -355,6 +355,15 @@
             "ext": "0$$$http://dl.yb77.eu.org:7890"
         },
         {
+            "key": "独播",
+            "name": "独播库┃海外",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "http://bi-andenghuo.github.io/io/drpy/lib/duboku.json$$$http://dl.yb77.eu.org:7890$$$"
+        },
+        {
             "key": "星星",
             "name": "星星┃海外",
             "type": 3,
