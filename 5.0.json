@@ -1,6 +1,6 @@
 {
-    "spider": "http://77gg.cf/jar/pg0327.jar;md5;f3db1ded520109dd4051c0d404ec76b7",
-    "wallpaper": "http://77gg.cf/jar/b04.jpg",
+    "spider": "http://bi-andenghuo.github.io/io/jar/pg0331.jar;md5;27891447bab9c16ce959f72f5e440626",
+    "wallpaper": "http://bi-andenghuo.github.io/io/jar/b04.jpg",
     "sites": [
         {
             "key": "豆瓣",
@@ -11,17 +11,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 1,
-            "ext": "http://77gg.cf/drpy/lib/douban.json"
-        },
-        {
-            "key": "clg",
-            "name": "磁力狗┃仅搜索",
-            "type": 3,
-            "api": "csp_Clg",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": "http://77gg.cf/drpy/lib/tokentemplate.json$$$https://clg.clgvip1.xyz/$$$http://dl.yb77.eu.org:7890$$$0"
+            "ext": "http://bi-andenghuo.github.io/io/drpy/lib/douban.json"
         },
         {
             "key": "Pandalivetv",
@@ -30,7 +20,7 @@
             "api": "csp_Pandalivetv",
             "searchable": 0,
             "changeable": 0,
-            "jar": "http://77gg.cf/jar/hanguomeinv.jar;md5;ff885bd0a2f77020eba5bebd1f59a924"
+            "jar": "http://bi-andenghuo.github.io/io/jar/hanguomeinv.jar;md5;ff885bd0a2f77020eba5bebd1f59a924"
         },
         {
             "key": "Yinyuetai",
@@ -64,7 +54,7 @@
             "key": "视聚场",
             "name": "🚑央视频┃猫源",
             "type": 3,
-            "api": "http://77gg.cf/drpy/cat/cntv_open.js",
+            "api": "http://bi-andenghuo.github.io/io/drpy/cat/cntv_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -72,7 +62,7 @@
             "key": "hula8",
             "name": "武享┃猫源",
             "type": 3,
-            "api": "http://77gg.cf/drpy/cat/js/hula8_bytecode.js",
+            "api": "http://bi-andenghuo.github.io/io/drpy/cat/js/hula8_bytecode.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -81,7 +71,7 @@
             "key": "ufc",
             "name": "搏击┃猫源 ",
             "type": 3,
-            "api": "http://77gg.cf/drpy/cat/js/ufc_open.js",
+            "api": "http://bi-andenghuo.github.io/io/drpy/cat/js/ufc_open.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -90,19 +80,19 @@
             "key": "tuxiaobei",
             "name": "小贝┃猫源",
             "type": 3,
-            "api": "http://77gg.cf/drpy/cat/js/tuxiaobei_open.js"
+            "api": "http://bi-andenghuo.github.io/io/drpy/cat/js/tuxiaobei_open.js"
         },
         {
             "key": "ubestkid",
             "name": "乐虎┃猫源",
             "type": 3,
-            "api": "http://77gg.cf/drpy/cat/js/ubestkid_open.js"
+            "api": "http://bi-andenghuo.github.io/io/drpy/cat/js/ubestkid_open.js"
         },
         {
             "key": "huya",
             "name": "虎牙直播┃猫源",
             "type": 3,
-            "api": "http://77gg.cf/drpy/cat/js/huya_bytecode.js",
+            "api": "http://bi-andenghuo.github.io/io/drpy/cat/js/huya_bytecode.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -111,7 +101,7 @@
             "key": "douyu",
             "name": "斗鱼直播┃猫源",
             "type": 3,
-            "api": "http://77gg.cf/drpy/cat/js/douyu_bytecode.js",
+            "api": "http://bi-andenghuo.github.io/io/drpy/cat/js/douyu_bytecode.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -120,7 +110,7 @@
             "key": "童趣",
             "name": "童趣┃猫源",
             "type": 3,
-            "api": "http://77gg.cf/drpy/cat/boosj_open.js",
+            "api": "http://bi-andenghuo.github.io/io/drpy/cat/boosj_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -128,19 +118,56 @@
             "key": "sharenice_open",
             "name": "短视频┃猫源",
             "type": 3,
-            "api": "http://77gg.cf/drpy/cat/sharenice_open.js",
+            "api": "http://bi-andenghuo.github.io/io/drpy/cat/sharenice_open.js",
             "searchable": 1,
             "changeable": 0
         },
         {
             "key": "csp_xpath_yinfans",
-            "name": "💥音范丝4K",
+            "name": "💥音范丝4K┃磁力",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://77gg.cf/drpy/js/音范丝.json"
+            "ext": "http://bi-andenghuo.github.io/io/drpy/js/音范丝.json"
+        },
+        {
+            "key": "PikPakShare",
+            "name": "PikPak分享",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "http://bi-andenghuo.github.io/io/drpy/tokenm.json$$$http://bi-andenghuo.github.io/io/drpy/lib/pikpakclass.json$$$http://bi-andenghuo.github.io/io/drpy/lib/pikpakclass.json.txt.gz",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "clg",
+            "name": "磁力狗┃仅搜索",
+            "type": 3,
+            "api": "csp_Clg",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "http://bi-andenghuo.github.io/io/drpy/lib/tokentemplate.json$$$https://clg.clgvip1.xyz/$$$http://dl.yb77.eu.org:7890$$$0"
+        },
+        {
+            "key": "csp_XYQHiker_BT天堂",
+            "name": "BT天堂┃影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://vip.ohphp.com/d3/xd3/ali/BT天堂.json",
+            "jar": "http://vip.ohphp.com/d3/xd3/ali/83.jar"
         },
         {
             "key": "csp_XYQBiu_骚火电影VIP",
@@ -150,8 +177,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://77gg.cf/drpy/js/骚火电影VIP.json",
-            "jar": "http://77gg.cf/jar/xyq0126.jar;md5;6120d08f4eb1edce507bfcd1b339c482"
+            "ext": "http://bi-andenghuo.github.io/io/drpy/js/骚火电影VIP.json",
+            "jar": "http://bi-andenghuo.github.io/io/jar/xyq0126.jar;md5;6120d08f4eb1edce507bfcd1b339c482"
         },
         {
             "key": "csp_xBPQ_秒",
@@ -161,74 +188,42 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://77gg.cf/drpy/js/文才.json",
-            "jar": "http://77gg.cf/jar/xbpq.jar;md5;b8ac272d5be2b1871bac8e7eac895f93"
+            "ext": "http://bi-andenghuo.github.io/io/drpy/js/文才.json",
+            "jar": "http://bi-andenghuo.github.io/io/jar/XBPQ.jar;md5;645f617a7d1c289c3fe55195ffad19b8"
         },
         {
-            "key": "黑狐影院",
-            "name": "黑狐影院",
+            "key": "XBPQ_黑狐影院",
+            "name": "黑狐影院|XBPQ",
             "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": "2",
             "api": "csp_XBPQ",
-            "jar": "http://77gg.cf/jar/xbpq.jar;md5;b8ac272d5be2b1871bac8e7eac895f93",
+            "jar": "http://bi-andenghuo.github.io/io/jar/XBPQ.jar;md5;645f617a7d1c289c3fe55195ffad19b8",
+            "ext": "http://bi-andenghuo.github.io/io/drpy/js/黑狐影院.json"
+        },
+        {
+            "key": "XBPQ_BaiPiao",
+            "name": "白嫖影视|XBPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://bi-andenghuo.github.io/io/jar/XBPQ.jar;md5;645f617a7d1c289c3fe55195ffad19b8",
             "ext": {
-                "站名": "黑狐影院",
-                "主页url": "http://fagmn.com",
-                "数组": "class=\"stui-vodlist__box\"&&</a>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "嗅探词": ".m3u8#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com",
-                "过滤词": "/hls/#php",
-                "副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-                "搜索模式": "1",
-                "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索后缀": "/view/",
-                "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-                "线路标题": ">&&<",
-                "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-                "状态": "地区：&&</p>",
-                "导演": "导演：&&</p>",
-                "主演": "主演：&&</p>",
-                "简介": "简介：&&</div>",
-                "播放列表": "<a&&/a>",
-                "播放标题": ">&&<",
-                "播放链接": "href=\"&&\"",
-                "免嗅": "0",
-                "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-                "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
+                "地区": "[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
+                "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
+                "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
             }
         },
         {
-            "key": "baipiaoys",
-            "name": "白嫖┃XBPQ",
+            "key": "XBPQ_麻衣影院",
+            "name": "麻衣影院|XBPQ",
             "type": 3,
-            "changeable": 1,
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "csp_XBPQ",
+            "jar": "http://bi-andenghuo.github.io/io/jar/XBPQ.jar;md5;645f617a7d1c289c3fe55195ffad19b8",
             "ext": {
-                "主页url": "http://www.baipiaoys.com/",
-                "副标题": "pic-text text-right\">&&</b>",
-                "搜索模式": "1",
-                "搜索url": "https://www.baipiaoys.com/search.html?wd={wd}",
-                "图片": "data-original=\"&&\"",
-                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
-                "分类url": "http://www.baipiaoys.com/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-            },
-            "jar": "http://77gg.cf/jar/xbpq.jar;md5;b8ac272d5be2b1871bac8e7eac895f93"
+                "分类url": "https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"
+            }
         },
         {
             "key": "新6V",
@@ -257,7 +252,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "http://77gg.cf/drpy/lib/jianpian.json"
+            "ext": "http://bi-andenghuo.github.io/io/drpy/lib/jianpian.json"
         },
         {
             "key": "Bt0",
@@ -270,28 +265,14 @@
             "timeout": 60
         },
         {
-            "key": "新6V磁力",
-            "name": "新6V┃磁力",
+            "key": "Bdys_spider",
+            "name": "哔滴┃磁力",
+            "api": "csp_Bdys01",
             "type": 3,
-            "api": "csp_SixV",
+            "filterable": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://www.xb6v.com/",
-            "jar": "http://77gg.cf/jar/0.jar;md5;dd909349c70fe92e82470eba611b7094"
-        },
-        {
-            "key": "厂长",
-            "name": "厂长┃爬虫",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy77.com/",
-            "jar": "http://77gg.cf/jar/0.jar;md5;dd909349c70fe92e82470eba611b7094"
+            "ext": "https://www.bdys10.com/$$$null$$$1"
         },
         {
             "key": "Lib",
@@ -312,7 +293,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://77gg.cf/jar/xyq0126.jar;md5;6120d08f4eb1edce507bfcd1b339c482"
+            "jar": "http://bi-andenghuo.github.io/io/jar/xyq0126.jar;md5;6120d08f4eb1edce507bfcd1b339c482"
+        },
+        {
+            "key": "YQKan",
+            "name": "一起看┃爬虫",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "NanGua",
@@ -334,16 +325,6 @@
             "filterable": 1
         },
         {
-            "key": "77",
-            "name": "七七┃爬虫",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://77gg.cf/jar/0.jar;md5;dd909349c70fe92e82470eba611b7094"
-        },
-        {
             "key": "海外看",
             "name": "✈️️海外看┃海外",
             "type": 1,
@@ -357,11 +338,87 @@
             "key": "漫游影视",
             "name": "✈️️漫游影视┃海外",
             "type": 1,
-            "api": "http://127.0.0.1:10079/?thread=0&proxy=http://dl.yb77.eu.org:7890&url=http://gook.eu.org/api.php/provide/vod/?ac=list",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=http://dl.yb77.eu.org:7890&url=",
+            "api": "http://127.0.0.1:10079/p/0/http://dl.yb77.eu.org:7890/http://gook.eu.org/api.php/provide/vod",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "泥巴",
+            "name": "泥巴┃海外",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "0$$$http://dl.yb77.eu.org:7890"
+        },
+        {
+            "key": "星星",
+            "name": "星星┃海外",
+            "type": 3,
+            "api": "csp_Star",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "http://dl.yb77.eu.org:7890"
+        },
+        {
+            "key": "美剧迷",
+            "name": "美剧迷┃网盘",
+            "type": 3,
+            "api": "csp_Meijumi",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 120,
+            "ext": "http://bi-andenghuo.github.io/io/drpy/tokenm.json$$$https://www.meijumi.xyz/$$$http://dl.yb77.eu.org:7890$$$0"
+        },
+        {
+            "key": "Hdhive",
+            "name": "影巢┃网盘",
+            "type": 3,
+            "api": "csp_Hdhive",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "http://bi-andenghuo.github.io/io/drpy/tokenm.json$$$http://dl.yb77.eu.org:7890$$$0"
+        },
+        {
+            "key": "混合盘",
+            "name": "混合盘┃网盘",
+            "type": 3,
+            "api": "csp_HunHePan",
+            "timeout": 60,
+            "ext": "http://bi-andenghuo.github.io/io/drpy/tokenm.json$$$http://dl.yb77.eu.org:7890$$$0",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "88Pan",
+            "name": "88网盘┃网盘",
+            "type": 3,
+            "api": "csp_EightEight",
+            "timeout": 60,
+            "ext": "http://bi-andenghuo.github.io/io/drpy/tokenm.json$$$https://662688.xyz$$$http://dl.yb77.eu.org:7890$$$0",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "Xinshijue",
+            "name": "新视觉┃网盘",
+            "type": 3,
+            "api": "csp_Xinshijue",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "http://bi-andenghuo.github.io/io/drpy/tokenm.json$$$https://www.80yy3.com/$$$http://dl.yb77.eu.org:7890$$$0$$$http://bi-andenghuo.github.io/io/drpy/lib/wogg.json"
         },
         {
             "key": "酷狗",
@@ -417,17 +474,68 @@
             "name": "360影视┃爬虫",
             "type": 3,
             "api": "csp_SP360",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://77gg.cf/jar/xyq0126.jar;md5;6120d08f4eb1edce507bfcd1b339c482"
+            "jar": "http://bi-andenghuo.github.io/io/jar/xyq0126.jar;md5;6120d08f4eb1edce507bfcd1b339c482"
+        },
+        {
+            "key": "暴風",
+            "name": "暴風┃采集",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "火狐",
+            "name": "火狐┃采集",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod/",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "量子",
+            "name": "量子┃采集",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "非凡",
+            "name": "非凡┃采集",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "香港剧",
+                "台湾剧",
+                "动漫片",
+                "记录片",
+                "欧美动漫"
+            ]
         },
         {
             "key": "drpy_js_xb6v",
             "name": "新版6v┃js",
             "type": 3,
-            "api": "http://77gg.cf/drpy/lib/drpy2.min.js",
-            "ext": "http://77gg.cf/drpy/js/xb6v.js",
+            "api": "http://bi-andenghuo.github.io/io/drpy/lib/drpy2.min.js",
+            "ext": "http://bi-andenghuo.github.io/io/drpy/js/xb6v.js",
             "playerType": "1",
             "searchable": 1,
             "quickSearch": 1,
@@ -438,8 +546,8 @@
             "key": "drpy_js_电影港",
             "name": "电影港js",
             "type": 3,
-            "api": "http://77gg.cf/drpy/lib/drpy2.min.js",
-            "ext": "http://77gg.cf/drpy/js/dygang.js",
+            "api": "http://bi-andenghuo.github.io/io/drpy/lib/drpy2.min.js",
+            "ext": "http://bi-andenghuo.github.io/io/drpy/js/dygang.js",
             "playerType": "1",
             "searchable": 1,
             "quickSearch": 1,
@@ -450,8 +558,8 @@
             "key": "drpy_js_kuba",
             "name": "酷吧┃js",
             "type": 3,
-            "api": "http://77gg.cf/drpy/lib/drpy2.min.js",
-            "ext": "http://77gg.cf/drpy/js/kuba.js",
+            "api": "http://bi-andenghuo.github.io/io/drpy/lib/drpy2.min.js",
+            "ext": "http://bi-andenghuo.github.io/io/drpy/js/kuba.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -498,7 +606,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://77gg.cf/drpy/lib/tokentemplate.json"
+            "ext": "http://bi-andenghuo.github.io/io/drpy/lib/tokentemplate.json"
         },
         {
             "key": "Local",
@@ -517,7 +625,7 @@
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "http://77gg.cf/yml/apk/market.json"
+            "ext": "http://bi-andenghuo.github.io/io/yml/apk/market.json"
         },
         {
             "key": "cc",
@@ -533,7 +641,7 @@
         {
             "name": "IPV6",
             "type": 0,
-            "url": "http://77gg.cf/drpy/zb/v6.txt",
+            "url": "http://bi-andenghuo.github.io/io/drpy/zb/v6.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -542,7 +650,7 @@
         {
             "name": "IPV4-1",
             "type": 0,
-            "url": "http://77gg.cf/drpy/zb/v4.txt",
+            "url": "http://bi-andenghuo.github.io/io/drpy/zb/v4.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -551,7 +659,7 @@
         {
             "name": "央视频嗅探",
             "type": 0,
-            "url": "http://77gg.cf/drpy/zb/ysp.m3u",
+            "url": "http://bi-andenghuo.github.io/io/drpy/zb/ysp.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"
