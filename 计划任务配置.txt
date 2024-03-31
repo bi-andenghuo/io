@@ -1,0 +1,12 @@
+阿里token自动刷新
+token.sh和token.txt两个文件放在网址根目录，计划任务 类型：shell   执行周期可自由调整 脚本类型填写：/www/wwwroot/网址/token.sh
+
+freenom域名自动续期
+任务类型：访问url
+执行周期：每天
+url地址：https://freenom.gohome2.repl.co/
+
+漫游影视每天采集
+任务类型：访问url
+执行周期：每天
+url地址：https://gook.eu.org/api.php/timming/index.html?enforce=1&name=%E6%BC%AB%E6%B8%B8

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "影视更新",
+        "list": [
+            {
+                "name": "手机版-v8",
+                "url": "https://f005.backblazeb2.com/file/ygwr77/%E8%9C%82%E8%9C%9C%E7%89%88+%E6%89%8B%E6%9C%BA(%E5%B9%B3%E6%9D%BF)%E6%AD%A3%E5%BC%8F%E7%89%882.3.1.apk",
+                "icon": "http://zdh.pages.dev/yml/apk/r8lVK.png",
+                "version": "v8a-py"
+            },
+            {
+                "name": "电视版安卓-4.x",
+                "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
+                "icon": "http://zdh.pages.dev/yml/apk/r8lVK.png",
+                "version": "4.x-py"
+            },
+            {
+                "name": "电视版安卓-5.x",
+                "url": "https://f005.backblazeb2.com/file/ygwr77/%E8%9C%82%E8%9C%9C%E7%89%88+5.1%2B%E7%94%B5%E8%A7%86%E6%AD%A3%E5%BC%8F%E7%89%882.3.1.apk",
+                "icon": "http://zdh.pages.dev/yml/apk/r8lVK.png",
+                "version": "v7a-py"
+            }
+        ]
+    },
+    {
+        "name": "常用软件",
+        "list": [
+            {
+                "name": "SmartTube",
+                "url": "https://f005.backblazeb2.com/file/ygwr77/SmartTube_stable_20.56_armeabi-v7a.apk",
+                "icon": "http://zdh.pages.dev/yml/apk/SmartTube.png",
+                "version": "20.56"
+            },
+            {
+                "name": "SmartTubeNet",
+                "url": "https://f005.backblazeb2.com/file/ygwr77/SmartTube_beta_20.64_armeabi-v7a.apk",
+                "icon": "http://zdh.pages.dev/yml/apk/SmartTube.png",
+                "version": "20.64"
+            },
+            {
+                "name": "应用管家",
+                "url": "https://f005.backblazeb2.com/file/ygwr77/应用管家v1.2.7.apk",
+                "icon": "http://zdh.pages.dev/yml/apk/xhjl.png",
+                "version": "1.2.7"
+            },
+            {
+                "name": "当贝桌面",
+                "url": "https://f005.backblazeb2.com/file/ygwr77/8.8.1.8.apk",
+                "icon": "https://codeberg.org/gohome/gg/raw/branch/main/apk/8.8.1.8.png",
+                "version": "8.8.1.8"
+            },
+            {
+                "name": "Super桌面",
+                "url": "https://f005.backblazeb2.com/file/ygwr77/Super+TV+Launcher.apk",
+                "icon": "https://codeberg.org/gohome/gg/raw/branch/main/apk/Super TV Launcher.png",
+                "version": "2.3.7"
+            },
+            {
+                "name": "link2sd",
+                "url": "https://f005.backblazeb2.com/file/ygwr77/link2sd.apk",
+                "icon": "http://zdh.pages.dev/yml/apk/link2sd.png",
+                "version": "4.3.4"
+            },
+            {
+                "name": "keep",
+                "url": "https://f005.backblazeb2.com/file/ygwr77/Keep+v3.1.0.apk",
+                "icon": "http://zdh.pages.dev/yml/apk/link2sd.png",
+                "version": "3.1.0"
+            },
+            {
+                "name": "BLBL安卓5+",
+                "url": "https://f005.backblazeb2.com/file/ygwr77/BLBL%E9%98%B2%E5%B0%8F%E7%B1%B3%E6%B5%B7%E4%BF%A1%E5%B1%8F%E8%94%BD%E4%B8%A8%E5%AE%89%E5%8D%935-14%E4%B8%A8v1.4.6.APK",
+                "icon": "http://zdh.pages.dev/yml/apk/link2sd.png",
+                "version": "1.4.6"
+            },
+            {
+                "name": "BLBL安卓4",
+                "url": "https://f005.backblazeb2.com/file/ygwr77/BLBL%E9%98%B2%E5%B0%8F%E7%B1%B3%E6%B5%B7%E4%BF%A1%E5%B1%8F%E8%94%BD%E4%B8%A8%E5%AE%89%E5%8D%934_api19%E4%B8%A8v1.4.6.APK",
+                "icon": "http://zdh.pages.dev/yml/apk/link2sd.png",
+                "version": "1.4.6"
+            }
+        ]
+    },
+    {
+        "name": "本地包",
+        "list": [
+            {
+                "name": "watson",
+                "url": "https://fm.t4tv.hz.cz/zip/js-1115.zip",
+                "icon": "https://i.imgs.ovh/2023/10/20/2I7XH.jpeg",
+                "copy": "file://Download/JS/js.json",
+                "version": "11/15"
+            },
+            {
+                "name": "香雅情",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqtvbox/main/XYQTVBox_本地包.zip",
+                "icon": "https://i.imgs.ovh/2023/10/20/2IO0D.jpeg",
+                "copy": "file://Download/XYQTVBox/XYQTVBox.json"
+            }
+        ]
+    }
+]
